@@ -1,0 +1,7 @@
+*.docx
+*.zip
+nastavenia.ini
+ulozeny_stav_datovej_pamate.md
+ulozeny_stav_registrov.mr
+src/programy/*
+!src/programy/.gitkeep
